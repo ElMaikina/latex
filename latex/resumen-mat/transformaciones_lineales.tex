@@ -1,0 +1,207 @@
+\documentclass[12pt]{article}
+\usepackage{lingmacros}
+\usepackage{tree-dvips}
+\usepackage{amsmath,mathpazo}
+\begin{document}
+
+\section*{MAT023 - Transformaciones Lineales}
+
+\subsection*{¿Qué es una Transformación Lineal?}
+
+Diremos que una Transformación Lineal será una función que lleva los elementos de 
+un subespacio vectorial U hacia otro subespacio V, siempre y cuando cumpla la 
+siguiente regla:
+\begin{center}
+$ T(\alpha u + v) = \alpha T(u) + T(v) $
+\end{center}
+\\
+Esta regla debe cumplirse para cualquier elemento $u \in U$, $v \in U$ y $\alpha \in 
+\mathbb{B}$ para que la función sea una Transformación Lineal. Sumado a esto, podemos 
+hacer las siguientes observaciones:
+\\
+\\
+1) Sean U y V espacios vectoriales cualquiera. Considere la función 
+$T : U \to V$ definida por $T(u) = 0$, para cada $u \in U$
+\\
+\\
+2) Sean U y V espacios vectoriales cualquiera. Considere la función identidad a 
+$Id : U \to U$ definida por 
+$Id(u) = u$, para cada $e \in U$.
+\\
+\\
+3) El conjunto de todas las Transformaciones Lineales T de U se anota con el símbolo 
+$L_\mathbb{K}(U,V)$, esto es:
+
+\begin{center}
+$ L_\mathbb{K}(U,V) = \{ T : U \to V \mid$ T es lineal\}
+\end{center}
+\\
+\\
+4) Con las operaciones usuales de funciones $L_\mathbb{K}(U,V)$ es un espacio vectorial 
+sobre $\mathbb{K}$ 
+\\
+\\
+5) La composición entre Transformaciones Lineales tambíen es una Transformación Lineal
+\\
+\\
+\newpage
+\subsection*{Teorema de Existencia y Unicidad}
+Sean U y V espacios vectoriales sobre K con Dim $U < \infty$. Suponga que 
+$\mathcal{B} = \{u1, u2, ... un\}$
+es una base de U y que $v_1, v_2, ... v_n$ son n vectores cualquiera en V, entonces 
+existe una única Transformación Lineal $T: U \to V$ tal que:
+
+\begin{center}
+	$T(u_i) = v_i, \forall i = 1, 2, ... n.$
+\end{center}
+\\
+Ejemplo: Sea $T : \mathbb{R}^3 \to \mathbb{R}^2$ una función definida a partir de la
+relación:
+
+\begin{center}
+$T(1,-2,1) = (1,0)$
+\\
+$T(-2,1,0) = (-1,1)$
+\\
+$T(1,0,0) = (0,-2)$
+\\
+\end{center}
+\\
+¿Es $T$ definida de este modo una Transformación Lineal? En caso afirmativo, hallar
+una fórmuña explícita para $T$.
+\\
+\\
+Desarrollo: Asumiremos que es una Transformación Lineal, de esta forma, al generarse 
+cualquier inconsistencia, sabremos si realmente es o no es una T.L. Luego, cómo nuestro 
+espacio de partida es $\mathbb{R}^3$ definimos las cordenadas de dicho espacio como 
+\{x,y,z\}. Para resolver este ejercicio nosotros necesitamos saber cómo la Transformación 
+Lineal toma cada una de estas coordenadas y las lleva al espacio de $\mathbb{R}^2$, oséa 
+nuestro espacio de llegada.
+\\\\
+Por el teorema de Existencia y Unicidad, sabemos que solo una función nos dará esas
+coordenadas de salida para esas coordenadas de llegada. Entonces en la práctica debemos
+buscar cada $T(u_i) = v_i$, siendo cada $u_i$ una coordenada del espacio de salida (para
+este caso \{x,y,z\}).
+\\\\
+Luego, como las Transformaciones Lineales son distribuitivas por definición, podemos
+reescribir las transformaciones de la siguiente manera:
+\begin{center}
+	1) $T(1,-2,1)$ = $T(1,0,0)$ + $T(0,-2,0)$ + $T(0,0,1)$ \\
+	2) $T(-2,1,0)$ = $T(-2,0,0)$ + $T(0,1,0)$ + $T(0,0,0)$
+\end{center}
+Asímismo, podemos sacar las constantes de cada uno de los vectores, para así poder resolver
+el sistema. Empezando por la primera transformación entregada:
+\begin{center}
+	$T(1,-2,1)$ = $T(1,0,0)$ + $T(0,-2,0)$ + $T(0,0,1)$ \\
+	$T(1,-2,1)$ = $T(1,0,0)$ + $(-2)*T(0,1,0)$ + $T(0,0,1)$
+\end{center}
+Como ya sabemos que el resultado de $T(1,0,0) = (0, -2)$ 
+\begin{center}
+	$T(1,-2,1)$ = $(0,-2)$ + $(-2)T(0,1,0)$ + $T(0,0,1)$ \\
+	$(1,0)$ = $(0,-2)$ + $(-2)T(0,1,0)$ + $T(0,0,1)$ \\
+	$(1,2)$ = $(-2)T(0,1,0)$ + $T(0,0,1)$
+\end{center}
+Ahora, trabajemos con la otra transformación:
+\begin{center}
+	$T(-2,1,0)$ = $T(-2,0,0)$ + $T(0,1,0)$ + $T(0,0,0)$ \\
+	$T(-2,1,0)$ = $T(-2,0,0)$ + $T(0,1,0)$ \\
+	$T(-2,1,0)$ = $(-2)T(1,0,0)$ + $T(0,1,0)$ \\
+	$(-1,1)$ = $(-2)(0,-2)$ + $T(0,1,0)$ \\
+	$(-1,1)$ = $(0,4)$ + $T(0,1,0)$ \\
+	$(-1,-3)$ = $T(0,1,0)$
+\end{center}
+Finalmente, como ya tenemos $T(1,0,0)$ y $T(0,1,0)$, solo nos faltaría $T(0,0,1)$
+\begin{center}
+	$(1,2)$ = $(-2)T(0,1,0)$ + $T(0,0,1)$ \\
+	$(1,2)$ = $(-2)(-1,-3)$ + $T(0,0,1)$ \\
+	$(1,2)$ = $(2,6)$ + $T(0,0,1)$ \\
+	$(-1,-4)$ = $T(0,0,1)$
+\end{center}
+Entonces habremos hallado la función que define la Transformación Lineal a través
+de las propiedades pŕeviamente descritas, resultándonos:
+\begin{center}
+	$T(1,0,0)$ = (0,-2) \\
+	$T(0,1,0)$ = (-1,-3) \\
+	$T(0,0,1)$ = (-1,-4)
+\end{center}
+Descrito de otra forma más explícita, tendremos que para ciertas cordenadas en 
+$\mathbb{R}^3$, por ejemplo $\{x,y,z\}$, la Transformación Lineal $T$ se definirá
+a través de la siguiente fórmula:
+\begin{center}
+$T:\mathbb{R}^3\to\mathbb{R}^2$ tal que T$(x,y,z)$ = (-y-z,-2x-3y-4z)
+\end{center}
+\\
+Finalmente, como el sistema es consistente a través del uso de las propiedades
+de Transformación Lineal, podemos aseverar que es una T.L.
+\newpage
+\\
+Por supuesto, las Transformaciones Lineales tiene dos características importantes
+que permiten identificarlas como tal. Sean $U$ y $V$ espacios vectoriales sobre
+$\mathbb{K}$ y $T \in L_\mathbb{K} (U,V)$. Se definen los siguientes conjuntos:
+\subsection*{Kernel o Núcleo}
+Definición: El núcleo corresponde al conjunto de elementos dentro de $U$ tales que
+el resultado de su transformación resulta en el $0V$ (Vector Nulo). Es decir:
+\begin{center}
+ker $T$ = $\{u \in U: T(u) = 0\} \subseteq U$
+\end{center}
+Por supuesto, implica que el Vector Nulo está dentro del conjunto $V$.
+\subsection*{Imagen}
+Definición: La imagen corresponde al conjunto de elementos dentro de $V$ tales que
+exista un elemento $u$ dentro del espacio $U$ que al aplicarsele la Transformación
+Lineal, resulten en los elementos de $V$. Es decir:
+\begin{center}
+	Im $T$ = $\{v \in V:\exists u \in U, T(u) = v\} \subseteq V$
+\end{center}
+\\
+\\
+Ejemplo: Considere la Transformación Lineal $T : M_2(\mathbb{R}) \to \mathbb{R}^2$ definida:
+\begin{center}
+T
+\begin{pmatrix}
+x & y \\
+z & w
+\end{pmatrix}
+= }$(x+y-w,x-y+z)$ 
+\end{center}
+Calcule el Núcleo e Imagen de T.
+\\
+\\
+Desarrollo: Para hallar el núcleo primero, debemos encontrar los valores de $\{x,y,z,w\}$
+tales que su Transformación resulten en el vector $(0,0)$. Entonces realizamos el siguiente
+sistema:
+\begin{center}
+$(x+y-w)$ = $0$ \\
+$(x-y+z)$ = $0$ 
+\end{center}
+\\
+Al desarrollar el sistema de ecuaciones como lo haríamos normalmente, obtendremos que:
+\begin{center}
+$w$ = $-x-y$ \\
+$z$ = $-x+y$ \\
+\end{center}
+\\
+Entonces tendremos que el Kernel será cualquier elemento del conjunto $U$ simpre y cuando
+$w = -x-y \wedge z = -x+y$, para cualquier $x$ e $y$. Escrito de forma Matemática:
+
+\begin{center}
+\therfore ker $T$ = $\{x,y,z,w \in U: z = -x+y, w = -x-y\} \subseteq U$
+\end{center}
+\\
+\\
+Luego, como la función de la Transformación ya está definida, la imagen resulta de la
+siguiente manera:
+\begin{center}
+\therfore Im $T$ = $\{v_1,v_2 \in V: v_1 = x+y-w, v_2 = z = x-y-z\} \subseteq V$
+\end{center}
+
+Ejemplo: Hallar explícitamente, una transformación lineal $T:\mathbb{R}^3 \to \mathbb{R}^3$
+tal que $(1,-2,1)$ $\exists$ $ker$T,$Nu$T = 2 y que además:
+\begin{center}
+	$Im$T = $\{(x,y,z) \in \mathbb{R}^3; x+2y-z = 0, \wedge y+z = 0\}$
+\end{center}
+\\
+¿Es única esta transformación lineal?
+
+
+\\
+\end{document}

@@ -1,0 +1,463 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.5.1)  5 JUL 2022 02:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**bases_de_datos_c2.tex
+(./bases_de_datos_c2.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-04-10>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-04-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box50
+)
+(./bases_de_datos_c2.aux)
+\openout1 = `bases_de_datos_c2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count194
+\scratchdimen=\dimen141
+\scratchbox=\box51
+\nofMPsegments=\count195
+\nofMParguments=\count196
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count197
+\MPscratchDim=\dimen142
+\MPnumerator=\count198
+\makeMPintoPDFobject=\count199
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Underfull \hbox (badness 10000) in paragraph at lines 16--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--28
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--28
+
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 32--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--55
+
+ []
+
+[2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 72.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 72.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 72.
+
+Overfull \hbox (2.96397pt too wide) in paragraph at lines 76--79
+\OT1/cmr/m/n/12 Una de-pen-den-cia par-cial ocur-rir^^Sa den-tro de una de-pen-
+den-cia fun-cional cuando
+ []
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 85.
+
+! Please use \mathaccent for accents in math mode.
+\add@accent ... \let \ignorespaces \relax \accent 
+                                                  #1 #2\egroup \ifmmode \els...
+l.85 	$ID\_producto \Rightarrow descripció
+                                           n$
+? 
+[3]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
+14.
+ (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 114.
+ [4]
+Underfull \hbox (badness 10000) in paragraph at lines 122--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--149
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 153--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--174
+
+ []
+
+[6]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.183 	Tabla con valores multi-valuados \\\\
+                                            
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.184 	$\bigg\downarrow$ \\\\
+                             
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.185 	Primera Forma Normal \\\\
+                                
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.186 	$\bigg\downarrow$  \\\\
+                              
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.187 	Segunda Forma Normal \\\\
+                                
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.188 	$\bigg\downarrow$  \\\\
+                              
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.189 	Tercera Forma Normal \\\\
+                                
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.190 	$\bigg\downarrow$  \\\\
+                              
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.191 	Forma Normal Boyce-Codd \\\\
+                                   
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.192 	$\bigg\downarrow$  \\\\
+                              
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.193 	Cuarta Forma Normal \\\\
+                               
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.194 	$\bigg\downarrow$  \\\\
+                              
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.197 \\\\
+          
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.198 E
+       s importante recalcar que el modelo no necesariamente parte desde el ...
+
+? 
+[7]
+<1FN.png, id=30, 1034.86626pt x 540.0175pt>
+File: 1FN.png Graphic file (type png)
+<use 1FN.png>
+Package pdftex.def Info: 1FN.png  used on input line 214.
+(pdftex.def)             Requested size: 258.71593pt x 135.00404pt.
+<2FN.png, id=31, 977.6525pt x 470.75874pt>
+File: 2FN.png Graphic file (type png)
+<use 2FN.png>
+Package pdftex.def Info: 2FN.png  used on input line 225.
+(pdftex.def)             Requested size: 244.41252pt x 117.68939pt.
+ [8 <./1FN.png>]
+<3FN.png, id=35, 1166.3575pt x 686.565pt>
+File: 3FN.png Graphic file (type png)
+<use 3FN.png>
+Package pdftex.def Info: 3FN.png  used on input line 235.
+(pdftex.def)             Requested size: 291.58865pt x 171.64082pt.
+ [9 <./2FN.png> <./3FN.png>]
+<cuadro_resumen.png, id=39, 1023.825pt x 929.4725pt>
+File: cuadro_resumen.png Graphic file (type png)
+<use cuadro_resumen.png>
+Package pdftex.def Info: cuadro_resumen.png  used on input line 257.
+(pdftex.def)             Requested size: 255.95561pt x 232.36755pt.
+ [10 <./cuadro_resumen.png>]
+<join.png, id=43, 707.64375pt x 448.67625pt>
+File: join.png Graphic file (type png)
+<use join.png>
+Package pdftex.def Info: join.png  used on input line 272.
+(pdftex.def)             Requested size: 176.9105pt x 112.16878pt.
+
+Overfull \hbox (9.34036pt too wide) in paragraph at lines 276--277
+\OT1/cmr/m/n/12 Patr^^Son de prece-den-cia en SQL, las si-glas cor-re-spon-den 
+a "CRE-ATE", "READ",
+ []
+
+<consultas.png, id=44, 938.50626pt x 569.12625pt>
+File: consultas.png Graphic file (type png)
+<use consultas.png>
+Package pdftex.def Info: consultas.png  used on input line 281.
+(pdftex.def)             Requested size: 234.62599pt x 142.2812pt.
+[11 <./join.png> <./consultas.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 287--298
+
+ []
+
+[12] (./bases_de_datos_c2.aux) ) 
+Here is how much of TeX's memory you used:
+ 1364 strings out of 478238
+ 22234 string characters out of 5850457
+ 316812 words of memory out of 5000000
+ 19631 multiletter control sequences out of 15000+600000
+ 473206 words of font info for 41 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,6n,62p,210b,178s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.
+pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on bases_de_datos_c2.pdf (12 pages, 459927 bytes).
+PDF statistics:
+ 74 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+

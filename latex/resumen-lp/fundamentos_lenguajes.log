@@ -1,0 +1,262 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2022.3.26)  28 MAR 2022 10:59
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**fundamentos_lenguajes.tex
+(./fundamentos_lenguajes.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \section
+            *{Lenguajes de Programación}
+? 
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \section*{Lenguajes de Programación}
+                                         
+? 
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+\@writefile{toc}{\contentsline {subsection}{\numberline {0.1}¿Por qué estudia
+rlos?}{1}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {0.2}¿Para qué sirven
+?}{1}{}\protected@file@percent }
+]
+Underfull \hbox (badness 10000) in paragraph at lines 18--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--41
+
+ []
+
+[2
+\@writefile{toc}{\contentsline {subsection}{\numberline {0.3}Paradigmas}{2}{}\p
+rotected@file@percent }
+]
+Underfull \hbox (badness 10000) in paragraph at lines 43--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--85
+
+ []
+
+
+Overfull \hbox (3.5862pt too wide) in paragraph at lines 43--85
+\OT1/cmr/m/n/12 Las es-tr-cu-turas de con-trol cor-re-spon-den a las condi-cion
+es que se deben cumplir
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--85
+
+ []
+
+[3
+\@writefile{toc}{\contentsline {subsection}{\numberline {0.4}Abstracciones}{3}{
+}\protected@file@percent }
+]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87 C
+      ompilación: Traduce el código a lenguaje de máquina para poder ejec...
+
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--119
+
+ []
+
+[4
+\@writefile{toc}{\contentsline {subsection}{\numberline {0.5}Implementaciones}{
+4}{}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {0.6}Compilación VS. I
+ntepretación}{4}{}\protected@file@percent }
+]
+Underfull \hbox (badness 10000) in paragraph at lines 142--158
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 159--172
+
+ []
+
+
+Overfull \hbox (9.5593pt too wide) in paragraph at lines 173--180
+\OT1/cmr/m/n/12 "Gram^^Satica con Atrib-u-tos" se aplica para es-peci-fi-carla.
+ La sem^^Santica din^^Samica,
+ []
+
+[6
+\@writefile{toc}{\contentsline {subsection}{\numberline {0.7}Sintaxis}{6}{}\pro
+tected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {0.8}Semántica}{6}{}\p
+rotected@file@percent }
+]
+! You can't use `macro parameter character #' in horizontal mode.
+l.195 6) Comentarios (ej: #
+                           # Un comentario, /* Otro comentario */
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.195 6) Comentarios (ej: ##
+                             Un comentario, /* Otro comentario */
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--196
+
+ []
+
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box50
+)
+(./fundamentos_lenguajes.aux)
+\openout1 = `fundamentos_lenguajes.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 208.
+LaTeX Font Info:    ... okay on input line 208.
+ [7] (./fundamentos_lenguajes.aux) ) 
+Here is how much of TeX's memory you used:
+ 412 strings out of 478276
+ 7642 string characters out of 5853013
+ 305290 words of memory out of 5000000
+ 18699 multiletter control sequences out of 15000+600000
+ 470768 words of font info for 33 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 33i,5n,38p,164b,117s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+12.pfb>
+Output written on fundamentos_lenguajes.pdf (7 pages, 48070 bytes).
+PDF statistics:
+ 38 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
